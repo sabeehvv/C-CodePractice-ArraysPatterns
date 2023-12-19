@@ -1,0 +1,9 @@
+13:12:49 **** Incremental Build of configuration Debug for project PaternLadder ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PaternLadder.o" "..\\src\\PaternLadder.c" 
+..\src\PaternLadder.c: In function 'main':
+..\src\PaternLadder.c:14:17: warning: unused variable 'column'
+gcc -o PaternLadder.exe "src\\PaternLadder.o" 
+
+13:12:49 Build Finished. 0 errors, 1 warnings. (took 319ms)
+

@@ -1,0 +1,45 @@
+/*
+ ============================================================================
+ Name        : accept.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+void getArray(int);
+void displayarray();
+int main(void) {
+	int size;
+	setbuf(stdout,NULL);
+	printf("enter the size of array");
+	scanf("%d",&size);
+	getArray(size);
+	displayarray(size);
+
+	return EXIT_SUCCESS;
+}
+
+
+void getArray(int size){
+	int i;
+	int value[100];
+	printf("enter the values");
+	for(i=0;i<size;i++){
+		scanf("%d",&value[i]);
+	}
+}
+
+
+void displayarray(int size){
+	int i;
+	int value[100];
+	printf("you have entered :\t");
+	for(i=0;i<size;i++){
+		printf("%d ",value[i]);
+	}
+}

@@ -1,0 +1,7 @@
+11:53:39 **** Incremental Build of configuration Debug for project sort array in decenting order ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sort array in decenting order.o" "..\\src\\sort array in decenting order.c" 
+gcc -o "sort array in decenting order.exe" "src\\sort array in decenting order.o" 
+
+11:53:39 Build Finished. 0 errors, 0 warnings. (took 306ms)
+

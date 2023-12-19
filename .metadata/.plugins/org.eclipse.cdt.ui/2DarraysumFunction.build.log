@@ -1,0 +1,18 @@
+15:18:49 **** Incremental Build of configuration Debug for project 2DarraysumFunction ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2DarraysumFunction.o" "..\\src\\2DarraysumFunction.c" 
+..\src\2DarraysumFunction.c:14:28: error: array type has incomplete element type
+..\src\2DarraysumFunction.c:14:43: error: array type has incomplete element type
+..\src\2DarraysumFunction.c:30:28: error: array type has incomplete element type
+..\src\2DarraysumFunction.c:30:43: error: array type has incomplete element type
+..\src\2DarraysumFunction.c:30:58: error: array type has incomplete element type
+..\src\2DarraysumFunction.c: In function 'main':
+..\src\2DarraysumFunction.c:51:2: warning: implicit declaration of function 'setbut'
+..\src\2DarraysumFunction.c:54:2: error: type of formal parameter 2 is incomplete
+..\src\2DarraysumFunction.c:54:2: error: type of formal parameter 3 is incomplete
+..\src\2DarraysumFunction.c:49:44: warning: unused variable 'sumarr'
+..\src\2DarraysumFunction.c:49:8: warning: unused variable 'j'
+..\src\2DarraysumFunction.c:49:6: warning: unused variable 'i'
+
+15:18:49 Build Failed. 7 errors, 4 warnings. (took 108ms)
+

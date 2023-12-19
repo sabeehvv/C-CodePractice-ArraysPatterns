@@ -1,0 +1,7 @@
+16:58:20 **** Incremental Build of configuration Debug for project even numbers from array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\even numbers from array.o" "..\\src\\even numbers from array.c" 
+gcc -o "even numbers from array.exe" "src\\even numbers from array.o" 
+
+16:58:20 Build Finished. 0 errors, 0 warnings. (took 328ms)
+

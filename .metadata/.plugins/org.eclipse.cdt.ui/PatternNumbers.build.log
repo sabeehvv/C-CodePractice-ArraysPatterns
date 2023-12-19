@@ -1,0 +1,7 @@
+12:28:35 **** Rebuild of configuration Debug for project PatternNumbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PatternNumbers.o" "..\\src\\PatternNumbers.c" 
+gcc -o PatternNumbers.exe "src\\PatternNumbers.o" 
+
+12:28:36 Build Finished. 0 errors, 0 warnings. (took 357ms)
+

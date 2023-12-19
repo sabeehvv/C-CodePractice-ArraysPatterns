@@ -1,0 +1,68 @@
+/*
+ ============================================================================
+ Name        : accept.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int addArray(int,int,int);
+int getArray(int,int,int);
+void displayarray(int,int,int);
+int main(void) {
+	int size;
+	int value1[100][100],value2[100][100],sumvalue[100][100];
+	setbuf(stdout,NULL);
+	printf("enter the size of array");
+	scanf("%d",&size);
+	value1,value2=getArray(size);
+	sumvalue=addArray(size,value1,value2);
+	displayarray(size,sumvalue);
+
+	return EXIT_SUCCESS;
+}
+
+
+int getArray(int size){
+	int i,j;
+	int value1[100][100],value2[100][100];
+	printf("Enter the values of array 1\n");
+	for(i=0;i<size;i++){
+		for(j=0;j<size;j++){
+		scanf("%d",&value1[i][j]);
+		printf("\t");
+	}printf("\n");
+	}
+	printf("\nEnter the values of array 2\n");
+	for(i=0;i<size;i++){
+		for(j=0;j<size;j++){
+		scanf("%d",&value2[i][j]);
+		printf("\t");
+	}printf("\n");
+}return value1,value2;
+}
+
+
+int addArray(int size,int value1[100][100],value2[100][100]){
+	int sumvalue[100][100],i,j;
+	for(i=0;i<size;i++){
+		for(j=0;j<size;j++){
+		sumvalue[i][j]=value1[i][j]+value2[i][j];
+	}
+}return sumvalue;
+}
+
+void displayarray(int size,int sumvalue){
+	int i,j;
+	printf("Sum of array-1 and array-2 :\n");
+	for(i=0;i<size;i++){
+		for(j=0;j<size;j++){
+		printf("%d\t",sumvalue[i][j]);
+	}printf("\n");}
+}
+

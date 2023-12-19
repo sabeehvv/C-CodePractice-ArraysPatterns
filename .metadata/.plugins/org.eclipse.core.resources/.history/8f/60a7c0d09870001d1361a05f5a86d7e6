@@ -1,0 +1,37 @@
+/*
+ ============================================================================
+ Name        : Array.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int i,j;
+	int value1[100],value2[100];
+	setbuf(stdout,NULL);
+	printf("Enter 3 values");
+	for(i=0;i<3;i++){
+		scanf("%d",&value1[i]);
+	}
+	for(j=0;j<3;j++){
+			value1[j]=value2[j];
+		}
+	printf("The elements stored in the first array are :");
+	for(i=0;i<3;i++){
+		printf("%d ",value1[i]);
+	}
+
+	printf("\nThe elements copied into the second array are :");
+	for(j=0;j<3;j++){
+		printf("%d ",value2[j]);
+	}
+
+
+	return EXIT_SUCCESS;
+}

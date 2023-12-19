@@ -1,0 +1,7 @@
+19:10:42 **** Incremental Build of configuration Debug for project TestArray ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\TestArray.o" "..\\src\\TestArray.c" 
+gcc -o TestArray.exe "src\\TestArray.o" 
+
+19:10:42 Build Finished. 0 errors, 0 warnings. (took 321ms)
+

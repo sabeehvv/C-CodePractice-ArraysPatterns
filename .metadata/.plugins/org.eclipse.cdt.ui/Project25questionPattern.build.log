@@ -1,0 +1,7 @@
+20:24:56 **** Incremental Build of configuration Debug for project Project25questionPattern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Project25questionPattern.o" "..\\src\\Project25questionPattern.c" 
+gcc -o Project25questionPattern.exe "src\\Project25questionPattern.o" 
+
+20:24:56 Build Finished. 0 errors, 0 warnings. (took 306ms)
+

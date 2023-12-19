@@ -1,0 +1,7 @@
+15:53:19 **** Incremental Build of configuration Debug for project multi diamension array sum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\multi diamension array sum.o" "..\\src\\multi diamension array sum.c" 
+gcc -o "multi diamension array sum.exe" "src\\multi diamension array sum.o" 
+
+15:53:19 Build Finished. 0 errors, 0 warnings. (took 309ms)
+

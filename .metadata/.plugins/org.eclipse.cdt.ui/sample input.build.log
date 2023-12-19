@@ -1,0 +1,10 @@
+12:26:30 **** Incremental Build of configuration Debug for project sample input ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample input.o" "..\\src\\sample input.c" 
+..\src\sample input.c: In function 'main':
+..\src\sample input.c:17:12: error: invalid operands to binary & (have 'char *' and 'int')
+..\src\sample input.c:18:2: error: expected ';' before 'printf'
+..\src\sample input.c:20:1: warning: control reaches end of non-void function
+
+12:26:30 Build Failed. 2 errors, 1 warnings. (took 124ms)
+

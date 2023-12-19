@@ -1,0 +1,7 @@
+19:07:03 **** Rebuild of configuration Debug for project paternsample ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\paternsample.o" "..\\src\\paternsample.c" 
+gcc -o paternsample.exe "src\\paternsample.o" 
+
+19:07:03 Build Finished. 0 errors, 0 warnings. (took 304ms)
+

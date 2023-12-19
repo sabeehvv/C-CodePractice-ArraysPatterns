@@ -1,0 +1,64 @@
+/*
+ ============================================================================
+ Name        : accept.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+void addArray(int);
+void getArray(int);
+void displayarray();
+{
+int main(void) {
+	int size;
+	setbuf(stdout,NULL);
+	printf("enter the size of array");
+	scanf("%d",&size);
+	getArray(size);
+	addArray(size);
+	displayarray(size);
+
+	return EXIT_SUCCESS;
+}
+
+
+void getArray(int size){
+	int i,j;
+	int value1[100][100],value2[100][100];
+	printf("Enter the values of array 1");
+	for(i=0;i<size;i++){
+		scanf("%d",&value1[i][j]);
+		printf("\t");
+	}
+	printf("Enter the values of array 2");
+	for(i=0;i<size;i++){
+		scanf("%d",&value2[i][j]);
+		printf("\t");
+	}
+}
+
+
+void addArray(int size){
+	int sumvalue[100][100],i,j;
+	int value1[100],value2[100];
+	for(i=0;i<size;i++){
+		for
+		sumvalue[i][j]=value1[i]+value2[j];
+	}
+}
+
+void displayarray(int size){
+	int i;
+	int sumvalue[100];
+	printf("Sum of array-1 and array-2 :\t");
+	for(i=0;i<size;i++){
+		printf("%d ",sumvalue[i]);
+	}
+}
+}

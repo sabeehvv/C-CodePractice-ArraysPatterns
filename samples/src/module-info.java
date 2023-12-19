@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sabee
+ *
+ */
+module samples {
+}

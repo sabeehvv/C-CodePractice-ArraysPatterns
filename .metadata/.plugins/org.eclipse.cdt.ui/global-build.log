@@ -1,0 +1,211 @@
+10:16:45 **** Incremental Build of configuration Debug for project Unique Numbers ****
+Info: Internal Builder is used for build
+gcc -o "Unique Numbers.exe" "src\\Unique Numbers.o" 
+c:/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Unique Numbers.exe: Permission denied
+collect2: ld returned 1 exit status
+10:17:43 **** Incremental Build of configuration Debug for project Unique Numbers ****
+Info: Internal Builder is used for build
+gcc -o "Unique Numbers.exe" "src\\Unique Numbers.o" 
+10:18:31 **** Incremental Build of configuration Debug for project Unique Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Unique Numbers.o" "..\\src\\Unique Numbers.c" 
+gcc -o "Unique Numbers.exe" "src\\Unique Numbers.o" 
+10:23:23 **** Incremental Build of configuration Debug for project Unique Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Unique Numbers.o" "..\\src\\Unique Numbers.c" 
+..\src\Unique Numbers.c: In function 'main':
+..\src\Unique Numbers.c:51:1: error: expected declaration or statement at end of input
+..\src\Unique Numbers.c:51:1: warning: control reaches end of non-void function
+10:23:34 **** Incremental Build of configuration Debug for project Unique Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Unique Numbers.o" "..\\src\\Unique Numbers.c" 
+gcc -o "Unique Numbers.exe" "src\\Unique Numbers.o" 
+10:27:18 **** Incremental Build of configuration Debug for project Unique Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Unique Numbers.o" "..\\src\\Unique Numbers.c" 
+..\src\Unique Numbers.c: In function 'main':
+..\src\Unique Numbers.c:38:14: warning: 'k' may be used uninitialized in this function
+gcc -o "Unique Numbers.exe" "src\\Unique Numbers.o" 
+10:28:39 **** Incremental Build of configuration Debug for project Unique Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Unique Numbers.o" "..\\src\\Unique Numbers.c" 
+..\src\Unique Numbers.c: In function 'main':
+..\src\Unique Numbers.c:16:10: warning: unused variable 'k'
+gcc -o "Unique Numbers.exe" "src\\Unique Numbers.o" 
+Info: Nothing to build for Unique Numbers
+10:31:43 **** Incremental Build of configuration Debug for project Unique Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Unique Numbers.o" "..\\src\\Unique Numbers.c" 
+..\src\Unique Numbers.c: In function 'main':
+..\src\Unique Numbers.c:16:10: warning: unused variable 'k'
+gcc -o "Unique Numbers.exe" "src\\Unique Numbers.o" 
+10:32:37 **** Incremental Build of configuration Debug for project Unique Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Unique Numbers.o" "..\\src\\Unique Numbers.c" 
+..\src\Unique Numbers.c: In function 'main':
+..\src\Unique Numbers.c:16:10: warning: unused variable 'k'
+gcc -o "Unique Numbers.exe" "src\\Unique Numbers.o" 
+10:48:43 **** Incremental Build of configuration Debug for project Unique Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Unique Numbers.o" "..\\src\\Unique Numbers.c" 
+..\src\Unique Numbers.c: In function 'main':
+..\src\Unique Numbers.c:16:10: warning: unused variable 'k'
+gcc -o "Unique Numbers.exe" "src\\Unique Numbers.o" 
+10:49:36 **** Incremental Build of configuration Debug for project Unique Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Unique Numbers.o" "..\\src\\Unique Numbers.c" 
+..\src\Unique Numbers.c: In function 'main':
+..\src\Unique Numbers.c:16:10: warning: unused variable 'k'
+gcc -o "Unique Numbers.exe" "src\\Unique Numbers.o" 
+10:50:48 **** Incremental Build of configuration Debug for project Unique Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Unique Numbers.o" "..\\src\\Unique Numbers.c" 
+..\src\Unique Numbers.c: In function 'main':
+..\src\Unique Numbers.c:16:10: warning: unused variable 'k'
+gcc -o "Unique Numbers.exe" "src\\Unique Numbers.o" 
+12:59:32 **** Rebuild of configuration Debug for project Unique Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Unique Numbers.o" "..\\src\\Unique Numbers.c" 
+..\src\Unique Numbers.c: In function 'main':
+..\src\Unique Numbers.c:16:10: warning: unused variable 'k'
+gcc -o "Unique Numbers.exe" "src\\Unique Numbers.o" 
+Info: Nothing to build for Unique Numbers
+Info: Nothing to build for Unique Numbers
+13:11:45 **** Rebuild of configuration Debug for project PaternLadder ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PaternLadder.o" "..\\src\\PaternLadder.c" 
+..\src\PaternLadder.c: In function 'main':
+..\src\PaternLadder.c:14:17: warning: unused variable 'column'
+gcc -o PaternLadder.exe "src\\PaternLadder.o" 
+13:12:05 **** Incremental Build of configuration Debug for project PaternLadder ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PaternLadder.o" "..\\src\\PaternLadder.c" 
+..\src\PaternLadder.c: In function 'main':
+..\src\PaternLadder.c:14:17: warning: unused variable 'column'
+gcc -o PaternLadder.exe "src\\PaternLadder.o" 
+13:12:49 **** Incremental Build of configuration Debug for project PaternLadder ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PaternLadder.o" "..\\src\\PaternLadder.c" 
+..\src\PaternLadder.c: In function 'main':
+..\src\PaternLadder.c:14:17: warning: unused variable 'column'
+gcc -o PaternLadder.exe "src\\PaternLadder.o" 
+21:55:48 **** Rebuild of configuration Debug for project 2 array in one ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2 diamension array.o" "..\\src\\2 diamension array.c" 
+..\src\2 diamension array.c: In function 'main':
+..\src\2 diamension array.c:15:15: warning: unused variable 'sum'
+gcc -o "2 array in one.exe" "src\\2 diamension array.o" 
+21:57:44 **** Incremental Build of configuration Debug for project 2 array in one ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2 diamension array.o" "..\\src\\2 diamension array.c" 
+..\src\2 diamension array.c: In function 'main':
+..\src\2 diamension array.c:43:2: warning: return makes integer from pointer without a cast
+..\src\2 diamension array.c:15:15: warning: unused variable 'sum'
+gcc -o "2 array in one.exe" "src\\2 diamension array.o" 
+21:57:59 **** Incremental Build of configuration Debug for project 2 array in one ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2 diamension array.o" "..\\src\\2 diamension array.c" 
+..\src\2 diamension array.c: In function 'main':
+..\src\2 diamension array.c:15:15: warning: unused variable 'sum'
+gcc -o "2 array in one.exe" "src\\2 diamension array.o" 
+21:58:19 **** Incremental Build of configuration Debug for project 2 array in one ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2 diamension array.o" "..\\src\\2 diamension array.c" 
+gcc -o "2 array in one.exe" "src\\2 diamension array.o" 
+22:05:40 **** Rebuild of configuration Debug for project prime numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prime numbers.o" "..\\src\\prime numbers.c" 
+gcc -o "prime numbers.exe" "src\\prime numbers.o" 
+Info: Nothing to build for prime numbers
+22:06:06 **** Incremental Build of configuration Debug for project prime numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prime numbers.o" "..\\src\\prime numbers.c" 
+gcc -o "prime numbers.exe" "src\\prime numbers.o" 
+Info: Nothing to build for prime numbers
+Info: Nothing to build for prime numbers
+22:09:52 **** Incremental Build of configuration Debug for project prime numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prime numbers.o" "..\\src\\prime numbers.c" 
+gcc -o "prime numbers.exe" "src\\prime numbers.o" 
+Info: Nothing to build for prime numbers
+Info: Nothing to build for prime numbers
+Info: Nothing to build for prime numbers
+Info: Nothing to build for prime numbers
+Info: Nothing to build for prime numbers
+Info: Nothing to build for prime numbers
+Info: Nothing to build for prime numbers
+22:13:03 **** Incremental Build of configuration Debug for project prime numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prime numbers.o" "..\\src\\prime numbers.c" 
+gcc -o "prime numbers.exe" "src\\prime numbers.o" 
+22:13:52 **** Incremental Build of configuration Debug for project prime numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prime numbers.o" "..\\src\\prime numbers.c" 
+gcc -o "prime numbers.exe" "src\\prime numbers.o" 
+Info: Nothing to build for prime numbers
+Info: Nothing to build for prime numbers
+22:14:49 **** Rebuild of configuration Debug for project ArrayPrimeNumberDelete ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ArrayPrimeNumberDelete.o" "..\\src\\ArrayPrimeNumberDelete.c" 
+gcc -o ArrayPrimeNumberDelete.exe "src\\ArrayPrimeNumberDelete.o" 
+Info: Nothing to build for ArrayPrimeNumberDelete
+22:16:32 **** Incremental Build of configuration Debug for project ArrayPrimeNumberDelete ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ArrayPrimeNumberDelete.o" "..\\src\\ArrayPrimeNumberDelete.c" 
+gcc -o ArrayPrimeNumberDelete.exe "src\\ArrayPrimeNumberDelete.o" 
+22:36:48 **** Incremental Build of configuration Debug for project ArrayPrimeNumberDelete ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ArrayPrimeNumberDelete.o" "..\\src\\ArrayPrimeNumberDelete.c" 
+gcc -o ArrayPrimeNumberDelete.exe "src\\ArrayPrimeNumberDelete.o" 
+22:37:32 **** Incremental Build of configuration Debug for project ArrayPrimeNumberDelete ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ArrayPrimeNumberDelete.o" "..\\src\\ArrayPrimeNumberDelete.c" 
+gcc -o ArrayPrimeNumberDelete.exe "src\\ArrayPrimeNumberDelete.o" 
+Info: Nothing to build for ArrayPrimeNumberDelete
+Info: Nothing to build for ArrayPrimeNumberDelete
+09:57:22 **** Rebuild of configuration Debug for project ArrayPrimeNumberDelete ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ArrayPrimeNumberDelete.o" "..\\src\\ArrayPrimeNumberDelete.c" 
+gcc -o ArrayPrimeNumberDelete.exe "src\\ArrayPrimeNumberDelete.o" 
+Info: Nothing to build for ArrayPrimeNumberDelete
+Info: Nothing to build for ArrayPrimeNumberDelete
+09:57:57 **** Rebuild of configuration Debug for project PatternBox ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PatternBox.o" "..\\src\\PatternBox.c" 
+gcc -o PatternBox.exe "src\\PatternBox.o" 
+Info: Nothing to build for PatternBox
+10:26:10 **** Incremental Build of configuration Debug for project PatternBox ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PatternBox.o" "..\\src\\PatternBox.c" 
+gcc -o PatternBox.exe "src\\PatternBox.o" 
+10:27:01 **** Incremental Build of configuration Debug for project PatternBox ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PatternBox.o" "..\\src\\PatternBox.c" 
+gcc -o PatternBox.exe "src\\PatternBox.o" 
+Info: Nothing to build for PatternBox
+10:27:23 **** Incremental Build of configuration Debug for project PatternBox ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PatternBox.o" "..\\src\\PatternBox.c" 
+gcc -o PatternBox.exe "src\\PatternBox.o" 
+10:28:26 **** Incremental Build of configuration Debug for project PatternBox ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PatternBox.o" "..\\src\\PatternBox.c" 
+gcc -o PatternBox.exe "src\\PatternBox.o" 
+10:35:02 **** Incremental Build of configuration Debug for project PatternBox ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PatternBox.o" "..\\src\\PatternBox.c" 
+gcc -o PatternBox.exe "src\\PatternBox.o" 
+10:35:20 **** Incremental Build of configuration Debug for project PatternBox ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PatternBox.o" "..\\src\\PatternBox.c" 
+gcc -o PatternBox.exe "src\\PatternBox.o" 
+10:35:38 **** Incremental Build of configuration Debug for project PatternBox ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PatternBox.o" "..\\src\\PatternBox.c" 
+gcc -o PatternBox.exe "src\\PatternBox.o" 
+Info: Nothing to build for PatternBox
+Info: Nothing to build for PatternBox
+23:27:30 **** Incremental Build of configuration Debug for project PatternBox ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PatternBox.o" "..\\src\\PatternBox.c" 
+gcc -o PatternBox.exe "src\\PatternBox.o" 
