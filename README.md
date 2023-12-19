@@ -1,1 +1,1 @@
-# C-CodePractice-ArraysPatterns
+# C++-CodePractice-ArraysPatterns
